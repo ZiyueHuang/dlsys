@@ -1,4 +1,4 @@
-### CSE599G1: Deep Learning System
+# CSE599G1: Deep Learning System
 Course Work
 
 Followings are the descriptions of the course.
@@ -12,7 +12,9 @@ We will have two classes per week. Each week will have one lecture. Another clas
 
 ## Instructors
 Tianqi Chen
+
 Haichen Shen
+
 Arvind Krishnamurthy
 
 ## Teaching Assistant
@@ -20,22 +22,31 @@ Qiao Zhang
 
 ## Logistics
 Time: Tuesday/Thursday 1:00pm to 2:20pm.
+
 There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
+
 Place: Normal lectures and labs happens at MGH 254
+
 We will be using CSE 305 for some of the guest lectures, checkout the schedule for details
+
 Slack: Join https://uw-cse.slack.com dlsys channel for course discussions and announcements
 
 ## Prerequisites
 Proficiency in Python, familar in C/C++
+
 We will mainly be using python for case study the existing systems, and C/C++ for some of the background hacking.
+
 Basic knowledge of machine learning (e.g CSE 546)
+
 Prior knowledge in system (operating system/database) is useful but not required.
 
 ## Homeworks and Grading
 We will have assignments and a final project.
 
 Course project: 60%
+
 Homeworks: 30%
+
 Discussion participation: 10%
 
 ## Acknowledgement
