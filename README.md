@@ -1,5 +1,5 @@
 # CSE599G1: Deep Learning System
-Course Work
+Here are my solutions for the assignments of DLSYS.
 
 Followings are the descriptions of the course.
 
