@@ -20,17 +20,6 @@ Arvind Krishnamurthy
 ## Teaching Assistant
 Qiao Zhang
 
-## Logistics
-Time: Tuesday/Thursday 1:00pm to 2:20pm.
-
-There are two joint lecture with CSE548 happens on Wed/Friday, checkout the schedule for details
-
-Place: Normal lectures and labs happens at MGH 254
-
-We will be using CSE 305 for some of the guest lectures, checkout the schedule for details
-
-Slack: Join https://uw-cse.slack.com dlsys channel for course discussions and announcements
-
 ## Prerequisites
 Proficiency in Python, familar in C/C++
 
@@ -40,14 +29,5 @@ Basic knowledge of machine learning (e.g CSE 546)
 
 Prior knowledge in system (operating system/database) is useful but not required.
 
-## Homeworks and Grading
-We will have assignments and a final project.
-
-Course project: 60%
-
-Homeworks: 30%
-
-Discussion participation: 10%
-
 ## Acknowledgement
-This course is created with help from DLsys seminar group at University of Washington.
+This course is created by University of Washington.
